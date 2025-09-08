@@ -23,3 +23,6 @@ Slack API & Bot – integração para envio de análises gráficas
 🚀 Objetivo
 
 Automatizar a coleta, transformação e distribuição de dados de câmbio, garantindo insights acessíveis tanto em formato estruturado (CSV) quanto em dashboards dinâmicos diretamente no Slack.
+
+<img width="1918" height="596" alt="Airflow" src="https://github.com/user-attachments/assets/fcc11d36-d452-4aac-bd6d-eccdbd7146c7" />
+<img width="1916" height="924" alt="Slack" src="https://github.com/user-attachments/assets/6d5f60f5-8d50-475d-aca4-fb6a9e19d909" />
